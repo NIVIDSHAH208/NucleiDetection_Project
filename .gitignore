@@ -1,3 +1,6 @@
-/Datasets
-/train
-/test
+*
+
+!.gitignore
+!NucleiDetectionDev.ipynb
+!SpecialTopicsProject.ipynb
+!unet_24march.h5

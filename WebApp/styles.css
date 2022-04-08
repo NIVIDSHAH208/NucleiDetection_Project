@@ -144,6 +144,11 @@ html, body {
     color: #ff606e;
 }
 
+#inputImage, #outputImage{
+    height: 300;
+    width: 300;
+}
+
 .valid-feedback{
    color: #2acc80;
 }
